@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vhoyer/vhcli/issues"
   },
-  "homepage": "https://github.com/vhoyer/vhcli#readme"
+  "homepage": "https://github.com/vhoyer/vhcli#readme",
+  "dependencies": {
+    "camelcase-keys": "^6.2.2"
+  }
 }
